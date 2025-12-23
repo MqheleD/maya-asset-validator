@@ -56,7 +56,6 @@ def show_ui():
         sizeable=False
     )
 
-
     cmds.columnLayout(adjustableColumn=True, rowSpacing=10)
 
     cmds.text(
